@@ -28,3 +28,14 @@
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/1b7f364618180e7fd45e2682e1b5de6cbb6c3050)
+
+### Day 2: May 14, Thursday
+
+**Today's Progress**: Basic design has completed of the cards. Also make it a responsive carousel. Make it funcional with dynamic content (dummy).
+
+**Thoughts**: I'm not using any CSS library. Trying to all features with custom code. Also trying to avoid npm packages as much as I can. If I wanted I could add react-multi-carousel package for the carousel I have used in the cards.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/0e8dbfd61e8f2b5078a5bdc48982227a8dfed653)
