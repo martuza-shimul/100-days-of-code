@@ -39,3 +39,14 @@
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/0e8dbfd61e8f2b5078a5bdc48982227a8dfed653)
+
+### Day 3: May 15, Friday
+
+**Today's Progress**: Modify the funcionality of the slider. Use react hook to the slider arrow functionality. Used useRef hook for this functionality. It's very usefull when you're trying to do DOM manipulation.
+
+**Thoughts**: Practice is the key. Maybe I've completed 10+ react courses on different platform but I didn't learn this much. So you should practice what you learn.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/6f8d9e10c1a4f83e94530a0373670411e4e1b176)
