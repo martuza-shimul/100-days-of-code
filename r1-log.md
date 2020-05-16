@@ -36,3 +36,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/6f8d9e10c1a4f83e94530a0373670411e4e1b176)
+
+### R1D4
+
+**Today's Progress**: Installed @reach/router and configured the route of the app. Also work on the homePage. It's not completed yet.
+
+**Thoughts**: Reach router and React router are similar but it's easier to learn and implement. Highly recommended for beginners.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/22efb7ce72540fd466b98354353e251bdfadc28e)
