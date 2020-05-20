@@ -58,3 +58,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/22efb7ce72540fd466b98354353e251bdfadc28e)
+
+### R1D7
+
+**Today's Progress**: Almost completed the design of details page. Design isn't completed yet.
+
+**Thoughts**: Very slow going. Again struggle with time. I'll try to increase the time in upcoming days.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/9a4989e02706bc3c71ae8bb7b135e3820ca419ef)
