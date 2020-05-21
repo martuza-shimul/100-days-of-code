@@ -80,3 +80,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
+
+### R1D9
+
+**Today's Progress**: Worked on the details page Dynamic content. I'm using Reach Router for my routing operation. Reading the documentation and learning more everyday
+
+**Thoughts**: Very slow going. Again struggle with time.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
