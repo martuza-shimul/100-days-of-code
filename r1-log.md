@@ -102,3 +102,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
+
+### R1D11
+
+**Today's Progress**: Refactor the app dynamic content and page structure. Still working on the details page dynamic content
+
+**Thoughts**: Page structure is very important for getting/passsing dynamic content through pages.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/5a7ccde0662ea1b55ebfbd8aedf0e727a6dd6a94)

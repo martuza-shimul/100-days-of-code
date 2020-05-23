@@ -95,26 +95,35 @@
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
 
-
 ### Day 9: May 21, Thursday
 
 **Today's Progress**: Worked on the details page Dynamic content. I'm using Reach Router for my routing operation. Reading the documentation and learning more everyday
 
-**Thoughts**: Very slow going. Again struggle with time. 
+**Thoughts**: Very slow going. Again struggle with time.
 
 **Link(s) to work**
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
-
 
 ### Day 10: May 22, Friday
 
 **Today's Progress**: Worked on the details page Dynamic content. Work only one hour. Got some leads how to do this. Hope it'll complete in the weekend.
 
-**Thoughts**: Very slow going. Stuck with details page dynamic content.  
+**Thoughts**: Very slow going. Stuck with details page dynamic content.
 
 **Link(s) to work**
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/cafb88c31666e560cc21f79768a310057431fc68)
+
+### Day 11: May 23, Saturday
+
+**Today's Progress**: Refactor the app dynamic content and page structure. Still working on the details page dynamic content
+
+**Thoughts**: Page structure is very important for getting/passsing dynamic content through pages.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/5a7ccde0662ea1b55ebfbd8aedf0e727a6dd6a94)
