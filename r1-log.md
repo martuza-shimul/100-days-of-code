@@ -113,3 +113,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/5a7ccde0662ea1b55ebfbd8aedf0e727a6dd6a94)
+
+### R1D12
+
+**Today's Progress**: Details page completed with dynamic data. Got the dynamic data through props.
+
+**Thoughts**: Page structure is very important for getting/passsing dynamic content through pages. Finally got the dynamic data in the details page.
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/e5b49a283227a857bc7f1858766c04a89569bad6)
