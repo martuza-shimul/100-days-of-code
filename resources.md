@@ -39,8 +39,9 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
-4. ["Reach Router](https://reach.tech/router) - open source
-5. ["Reach Router -- Kent C. Dodds](https://www.youtube.com/watch?v=J1vsBrSUptA) - YouTube tutorial
+4. ["Reach Router"](https://reach.tech/router) - open source
+5. ["Reach Router" -- Kent C. Dodds](https://www.youtube.com/watch?v=J1vsBrSUptA) - YouTube tutorial
+6. ["TMDB API documentation"](https://developers.themoviedb.org/3/getting-started)
 
 ## Contents
 
