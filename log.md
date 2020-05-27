@@ -138,3 +138,15 @@
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/e5b49a283227a857bc7f1858766c04a89569bad6)
+
+
+### Day 13: May 27, Wednesday
+
+**Today's Progress**: Cast card added to the details page. Dig the API documentation of TMDB. I'll try to start with real data from upcoming days.
+
+**Thoughts**: One of my biggest challenge is I'm unable to manage more time to do this. I hardly spend more than one hour
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/e5b49a283227a857bc7f1858766c04a89569bad6)

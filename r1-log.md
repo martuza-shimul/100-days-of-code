@@ -124,3 +124,14 @@ The log of my #100DaysOfCode challenge. Started on [May 13, Wednesday, 2020].
 
 1. [App Repo](https://github.com/martuza-shimul/Movie-review)
 2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/e5b49a283227a857bc7f1858766c04a89569bad6)
+
+### R1D13
+
+**Today's Progress**: Cast card added to the details page. Dig the API documentation of TMDB. I'll try to start with real data from upcoming days.
+
+**Thoughts**: One of my biggest challenge is I'm unable to manage more time to do this. I hardly spend more than one hour
+
+**Link(s) to work**
+
+1. [App Repo](https://github.com/martuza-shimul/Movie-review)
+2. [Today's Progress](https://github.com/martuza-shimul/Movie-review/commit/e5b49a283227a857bc7f1858766c04a89569bad6)
